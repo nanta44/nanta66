@@ -3,7 +3,7 @@
 เยอะกว่าเดิม
 "เวอร์ชั่น"."1.4",
 // ลิงค์สำหรับอัพเดตการใช้งาน
-"URL":""URL":"https://github.com/nanta44/nanta66/raw/master/file.zip
+"URL":"https://github.com/nanta44/nanta66/raw/master/file.zip
 "บันทึกการเปลี่ยนแปลง":"
 พบกับไฟล์ใหม่ (1/03/2023)
 รองรับซิมทรูมูฟ & ดีแทค
